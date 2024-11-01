@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "sass": "^1.80.5"
+  },
+  "scripts": {
+    "sass": "sass src/styles.scss dist/styles.css"
+}
+}
