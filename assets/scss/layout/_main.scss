@@ -331,6 +331,7 @@ header {
     }
     p {
       margin-top: 3rem;
+      margin-bottom:2rem;
       text-align: center;
       font-size: 1.6rem;
       font-weight: 500;
@@ -342,7 +343,6 @@ header {
     padding: 4rem;
     margin-top: 5rem;
     .hc-qa__list {
-      padding: 2rem 0;
       border-bottom: 1px solid #ccc;
       .hc-qa__ask {
         display: flex;
@@ -355,6 +355,8 @@ header {
         font-size: 1.8rem;
         font-weight: 500;
         color: #222;
+      padding: 2rem 0;
+
       }
       .hc-qa__answer {
         text-align: left;

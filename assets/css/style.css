@@ -441,6 +441,7 @@ header {
 }
 .hc-qa__inner p {
   margin-top: 3rem;
+  margin-bottom: 2rem;
   text-align: center;
   font-size: 1.6rem;
   font-weight: 500;
@@ -452,7 +453,6 @@ header {
   margin-top: 5rem;
 }
 .hc-qa .hc-qa-question .hc-qa__list {
-  padding: 2rem 0;
   border-bottom: 1px solid #ccc;
 }
 .hc-qa .hc-qa-question .hc-qa__list .hc-qa__ask {
@@ -466,6 +466,7 @@ header {
   font-size: 1.8rem;
   font-weight: 500;
   color: #222;
+  padding: 2rem 0;
 }
 .hc-qa .hc-qa-question .hc-qa__list .hc-qa__answer {
   text-align: left;
